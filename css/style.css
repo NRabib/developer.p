@@ -196,4 +196,35 @@ main{
     margin-top: 50px;
     margin-bottom: 113px;
 }
-    
+/* contact section style */
+.contact{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.contact-discription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+,.contact a{
+    text-decoration: none;
+    font-size: 40px;
+    margin-left:25px;
+}
