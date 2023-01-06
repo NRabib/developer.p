@@ -149,3 +149,51 @@ main{
 .skill-description{
     color: #757575
 }
+/* resume section style start here */
+.resume{
+   margin-top: 50px; 
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section-title{
+    font-size: 35px;
+    text-align: center;
+    color: #181818;
+    margin-bottom: 113px;
+    margin-top: 130px;
+}
+.resume-contant{
+    display: flex;
+    gap: 10px;
+}
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resumi-sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resumi-discription{
+    font-weight: 400;
+    font-size: 16px;
+}
+/* resumi button section style */
+.resumi-button{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+}
+    
